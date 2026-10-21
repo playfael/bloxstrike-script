@@ -1,0 +1,3 @@
+BloxStrike.luau -text
+*.md text eol=lf
+loader.luau text eol=lf
